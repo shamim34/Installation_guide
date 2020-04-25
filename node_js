@@ -1,0 +1,13 @@
+##### Node.js installation guide ######
+
+sudo apt-get install curl
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+to check version
+
+node -v
+
+to check version of npm package
+
+npm -v 
